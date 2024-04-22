@@ -208,7 +208,7 @@ usage: LINK [options] [files] [@commandfile]
 
 在点击了开始界面的“帮助”或“关于”按钮之后，会调用MessageBox API以弹出一个提示窗口，显示相应的文档内容。
 
-<img src="README.assets/image-20240422173524405.png" alt="image-20240422173524405" style="zoom: 50%;" />
+<img src="README.assets/image-20240422173524405.png" alt="image-20240422173524405" style="zoom: 40%;" />
 
 #### 2.4 游戏界面
 
