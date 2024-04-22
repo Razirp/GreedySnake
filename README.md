@@ -6,7 +6,7 @@
 >
 > A simple snake game written in MASM 32 assembly.
 >
-> This project currently does not provide an English version. XD
+> This project does not provide an English version now. XD
 
 ![image-20240422173239727](README.assets/image-20240422173239727.png)
 
