@@ -1,6 +1,6 @@
 # GreedySnake
 
-[![Author: Razirp](https://img.shields.io/badge/author-Razirp-cc0000)](https://github.com/Razirp) [![License](https://img.shields.io/github/license/Razirp/GreedySnake)](https://github.com/Razirp/GreedySnake/blob/main/LICENSE) [![Language: C++20](https://img.shields.io/badge/Language-C%2B%2B20-blue)](https://cppreference.com/)  [![GitHub release](https://img.shields.io/github/v/release/Razirp/GreedySnake?color=660099)](https://github.com/Razirp/GreedySnake/releases) [![CSDN Blog](https://img.shields.io/static/v1?label=CSDN%20Blog&message=Visit&color=e96140&style=flat-square)]() ![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FRazirp%2FGreedySnake.json%3Fcolor%3Dff9900) [![GitHub stars](https://img.shields.io/github/stars/Razirp/GreedySnake)](https://github.com/Razirp/GreedySnake/stargazers)
+[![Author: Razirp](https://img.shields.io/badge/author-Razirp-cc0000)](https://github.com/Razirp) [![License](https://img.shields.io/github/license/Razirp/GreedySnake)](https://github.com/Razirp/GreedySnake/blob/main/LICENSE) [![Language: C++20](https://img.shields.io/badge/Language-C%2B%2B20-blue)](https://cppreference.com/)  [![GitHub release](https://img.shields.io/github/v/release/Razirp/GreedySnake?color=660099)](https://github.com/Razirp/GreedySnake/releases) [![CSDN Blog](https://img.shields.io/static/v1?label=CSDN%20Blog&message=Visit&color=e96140&style=flat-square)](https://blog.csdn.net/qq_45899276/article/details/138086800?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22138086800%22%2C%22source%22%3A%22qq_45899276%22%7D) ![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FRazirp%2FGreedySnake.json%3Fcolor%3Dff9900) [![GitHub stars](https://img.shields.io/github/stars/Razirp/GreedySnake)](https://github.com/Razirp/GreedySnake/stargazers)
 
 > 一个MASM 32汇编编写的简单的贪吃蛇游戏。
 >
@@ -20,13 +20,15 @@
 
 #### 下载
 
-在以下链接下载 MASM 32 SDK 的 installer，并配置好环境变量：
+在以下链接下载 MASM 32 SDK 的 `installer`：
 
-```http
+```
 https://www.masm32.com/download.htm
 ```
 
-配置环境变量可参考[这个链接]([Win32汇编环境搭建教程（MASM32 SDK） - 诸子流 - 博客园 (cnblogs.com)](https://www.cnblogs.com/lsdb/p/7402955.html))。
+安装并配置好环境变量。
+
+配置环境变量可参考[这个链接](https://www.cnblogs.com/lsdb/p/7402955.html)。
 
 #### 汇编
 
