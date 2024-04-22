@@ -16,7 +16,7 @@
 
 ### 配置 MASM 32 SDK
 
-本项目基于[此版本]([Download The MASM32 SDK](https://www.masm32.com/download.htm))的 MASM 32 SDK，可能暂不兼容最新的 MASM 汇编工具。
+本项目基于[此版本](https://www.masm32.com/download.htm)的 MASM 32 SDK，可能暂不兼容最新的 MASM 汇编工具。
 
 #### 下载
 
